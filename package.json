@@ -1,0 +1,10 @@
+{
+  "name": "event-registration",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "googleapis": "^140.0.0",
+    "razorpay": "^2.9.4"
+  }
+}
